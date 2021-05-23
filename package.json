@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/ImAvinashSharma/API-Server/issues"
   },
-  "homepage": "https://github.com/ImAvinashSharma/API-Server#readme"
+  "homepage": "https://github.com/ImAvinashSharma/API-Server#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
 }
